@@ -3,13 +3,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin10101998" alt="sachin10101998" /> </p>
 
-<li align="left"> 🔭 I’m currently working on <a href="https://forum.xwiki.org/c/dev/13">XWiki as a mentor for GSoC 2021</a></li>
-
-<li align="left"> 🔭 Ive worked upon <a href="https://github.com/fluid-project/">FLUID Project</a></li>
-
-<li align="left"> 👯 I’m looking to collaborate on <a href="https://github.com/covid19india/covid19india-react">COVID19 India</a></li>
-
-<li align="left"> 🤔 I’m looking for help with <a href="https://docs.oracle.com/javase/7/docs/api/java/nio/package-summary.html">AWS Comprehend</a></li>
+<li align="left"> 🔭 Ive worked as CP educator at Platform Tech Group </li>
 
 <li align="left"> 👨‍💻 All of my projects are available at <a href="https://Ayush-ken14.github.io/">Ayush-ken14.codes</a></li>
 
@@ -21,7 +15,10 @@
 
 <li align="left"> ⚡ Fun fact <b>Too dead to die</b></li><br/><br/>
 
-<p align="left"><img src="http://sachinchopra.codes/DeviCon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://sachin10101998.github.io/DeviCon/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> <img src="https://sachin10101998.github.io/DeviCon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://sachin10101998.github.io/DeviCon/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://sachin10101998.github.io/DeviCon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://sachin10101998.github.io/DeviCon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://sachin10101998.github.io/DeviCon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://sachin10101998.github.io/DeviCon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://sachin10101998.github.io/DeviCon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://sachin10101998.github.io/DeviCon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://sachin10101998.github.io/DeviCon/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/> <img src="https://sachin10101998.github.io/DeviCon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://sachin10101998.github.io/DeviCon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/><img src="https://sachin10101998.github.io/DeviCon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></p><p align="center"><br/><br/> <img src="https://github-readme-stats.vercel.app/api?username=sachin10101998&show_icons=true" alt="sachin10101998" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin10101998"alt="sachin10101998" /> </p>
+<p align="left">
+  <img src="http://sachinchopra.codes/DeviCon/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://sachin10101998.github.io/DeviCon/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> <img src="https://sachin10101998.github.io/DeviCon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://sachin10101998.github.io/DeviCon/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://sachin10101998.github.io/DeviCon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://sachin10101998.github.io/DeviCon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://sachin10101998.github.io/DeviCon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://sachin10101998.github.io/DeviCon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://sachin10101998.github.io/DeviCon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://sachin10101998.github.io/DeviCon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://sachin10101998.github.io/DeviCon/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/> <img src="https://sachin10101998.github.io/DeviCon/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://sachin10101998.github.io/DeviCon/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/><img src="https://sachin10101998.github.io/DeviCon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></p><p align="center"><br/><br/> 
+![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=a=Ayush-ken-14&show_icons=true)
+</p>
 <br/><br/>
 <p align="center">
 <a href="https://twitter.com/sachin10101998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sachin10101998" height="20" width="20" /></a>
