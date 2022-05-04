@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayush-ken14" alt="Ayush-ken14" /> </p>
 
-<li align="left"> 👨‍💻 All of my projects are available at <a href="https://Ayush-ken14.github.io/">Ayush-ken14.codes</a></li>
+<li align="left"> 👨‍💻 All of my projects are available at <a href="https://github.com/Ayush-ken14?tab=repositories">Ayush-ken14.codes</a></li>
 
 <li align="left"> 📫 Follow me on LinkedIn : <a href="https://www.linkedin.com/in/ayush-kumar-372494201/">Ayush Kumar</a></li>
 
