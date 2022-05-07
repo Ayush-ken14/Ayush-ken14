@@ -7,7 +7,7 @@
 
 <li align="left"> 📫 Follow me on LinkedIn : <a href="https://www.linkedin.com/in/ayush-kumar-372494201/">Ayush Kumar</a></li>
 
-<li align="left"> 💬 Ask me about <b>CP, DSA, C++, Java, Python, Javascript, Bootstrap, MERN</b></li>
+<li align="left"> 💬 Ask me about <b>CP, DSA, C++, c, oops, web development</b></li>
 
 <li align="left"> 📫 Reach me at: <b>krayush1802@gmail.com</b></li>
 
