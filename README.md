@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
-<h3 align="left">A passionate Full Stack Developer and Competitive Programmer.</h3>
+<h3 align="left">Competitive Programmer and web developer</h3>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="480px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayush-ken14" alt="Ayush-ken14" /> </p>
 
